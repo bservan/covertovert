@@ -6,7 +6,9 @@
 Basic ICMP Documentation
 ========================
 
-Berhem Şervan Gök - 2231959
+- Berhem Şervan Gök - 2231959
+- Mehmet Edebali Şener - 1503010
+
 Group 48
 
 .. toctree::
